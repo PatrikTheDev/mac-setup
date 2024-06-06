@@ -32,9 +32,21 @@ cask "ngrok"
 cask "swiftformat-for-xcode"
 cask "copilot-for-xcode"
 cask "iina"
+cask "chatgpt"
+cask "notion"
+cask "rocket"
+cask "slack"
+cask "discord"
+cask "expo-orbit"
+cask "altserver"
+cask "keka"
+cask "imageoptim"
+cask "steam"
+cask "proxyman"
 
 mas "Amphetamine", id: 937984704
 mas "Home Assistant", id: 1099568401
 mas "Notability", id: 360593530
 mas "Telegram", id: 747648890
 mas "TestFlight", id: 899247664
+mas "Developer", id: 640199958
