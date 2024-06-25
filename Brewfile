@@ -15,6 +15,7 @@ brew "python"
 brew "python3"
 brew "yt-dlp"
 brew "bun"
+brew "gitleaks"
 
 cask "airbuddy"
 cask "amie"
