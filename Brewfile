@@ -44,6 +44,7 @@ cask "keka"
 cask "imageoptim"
 cask "steam"
 cask "proxyman"
+cask "devcleaner"
 
 mas "Amphetamine", id: 937984704
 mas "Home Assistant", id: 1099568401
