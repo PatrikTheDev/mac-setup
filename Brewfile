@@ -46,6 +46,8 @@ cask "steam"
 cask "proxyman"
 cask "devcleaner"
 cask "orcaslicer"
+cask "jordanbaird-ice"
+cask "cleanmymac"
 
 mas "Amphetamine", id: 937984704
 mas "Home Assistant", id: 1099568401
