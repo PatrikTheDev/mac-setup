@@ -51,6 +51,8 @@ cask "devcleaner"
 cask "orcaslicer"
 cask "jordanbaird-ice"
 cask "cleanmymac"
+cask "beyond-compare"
+cask "openscad"
 
 mas "Amphetamine", id: 937984704
 mas "Home Assistant", id: 1099568401
