@@ -19,6 +19,7 @@ brew "gitleaks"
 brew "xcode-build-server"
 brew "xcbeautify"
 brew "swiftformat"
+brew "clang-format"
 
 cask "airbuddy"
 cask "amie"
@@ -31,6 +32,7 @@ cask "raspberry-pi-imager"
 cask "screen-studio"
 cask "swish"
 cask "visual-studio-code"
+cask "cursor"
 cask "xcodes"
 cask "ngrok"
 cask "swiftformat-for-xcode"
@@ -56,7 +58,6 @@ cask "openscad"
 
 mas "Amphetamine", id: 937984704
 mas "Home Assistant", id: 1099568401
-mas "Notability", id: 360593530
 mas "Telegram", id: 747648890
 mas "TestFlight", id: 899247664
 mas "Developer", id: 640199958
